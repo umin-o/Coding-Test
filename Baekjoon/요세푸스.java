@@ -1,8 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-
-public class Main {
+public class 요세푸스 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
