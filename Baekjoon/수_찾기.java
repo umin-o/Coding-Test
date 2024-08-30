@@ -42,8 +42,6 @@ public class 수_찾기 {
             intArr2[i] = Integer.parseInt(strArr2[i]);
         }
 
-        boolean result = false;
-        
         for (int i = 0 ; i < M; i++) {
             System.out.println(binarySearch(intArr1, intArr2[i]));
         }
