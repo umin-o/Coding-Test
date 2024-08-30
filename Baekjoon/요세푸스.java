@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 public class 요세푸스 {
     public static void main(String[] args) throws Exception {
@@ -28,5 +27,6 @@ public class 요세푸스 {
         sb.append(">");
 
         System.out.println(sb);
+        sc.close();
     }
 }
